@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gif.gif" width="600" />
+  <img src="Gif.gif" alt="Movilidad Urbana" width="100%" />
 </p>
 
 
