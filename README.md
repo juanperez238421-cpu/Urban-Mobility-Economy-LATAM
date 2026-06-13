@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Gif.gif" width="600" />
+</p>
+
+
 # 🏙️ Movilidad Urbana y Desarrollo Económico en LATAM
 
 Este proyecto analiza la relación entre la eficiencia de la movilidad urbana (tráfico) y la productividad económica en las principales ciudades de América Latina.
